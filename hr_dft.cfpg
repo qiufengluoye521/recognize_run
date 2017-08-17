@@ -1,8 +1,8 @@
 <Projects version="2.0">
 	<Project active="1">hr_dft.cfp</Project>
 	<File active="0">main.c</File>
-	<File active="1">public_data.h</File>
-	<File active="0">hr_recognize.c</File>
+	<File active="0">public_data.h</File>
+	<File active="1">hr_recognize.c</File>
 	<File active="0">iir_filter.c</File>
 	<File active="0">dft_process.c</File>
 	<File active="0">hr_recognize.h</File>
